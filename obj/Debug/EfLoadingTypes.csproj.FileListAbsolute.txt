@@ -1,0 +1,15 @@
+c:\users\джабашевн.corp\source\repos\EfLoadingTypes\EfLoadingTypes\bin\Debug\EfLoadingTypes.exe.config
+c:\users\джабашевн.corp\source\repos\EfLoadingTypes\EfLoadingTypes\bin\Debug\EfLoadingTypes.exe
+c:\users\джабашевн.corp\source\repos\EfLoadingTypes\EfLoadingTypes\bin\Debug\EfLoadingTypes.pdb
+c:\users\джабашевн.corp\source\repos\EfLoadingTypes\EfLoadingTypes\bin\Debug\EntityFramework.dll
+c:\users\джабашевн.corp\source\repos\EfLoadingTypes\EfLoadingTypes\bin\Debug\EntityFramework.SqlServer.dll
+c:\users\джабашевн.corp\source\repos\EfLoadingTypes\EfLoadingTypes\bin\Debug\EntityFramework.xml
+c:\users\джабашевн.corp\source\repos\EfLoadingTypes\EfLoadingTypes\bin\Debug\EntityFramework.SqlServer.xml
+c:\users\джабашевн.corp\source\repos\EfLoadingTypes\EfLoadingTypes\bin\Debug\ru\EntityFramework.resources.dll
+c:\users\джабашевн.corp\source\repos\EfLoadingTypes\EfLoadingTypes\obj\Debug\EfLoadingTypes.csprojAssemblyReference.cache
+c:\users\джабашевн.corp\source\repos\EfLoadingTypes\EfLoadingTypes\obj\Debug\EfLoadingTypes.csproj.CoreCompileInputs.cache
+c:\users\джабашевн.corp\source\repos\EfLoadingTypes\EfLoadingTypes\obj\Debug\EfLoadingTypes.csproj.CopyComplete
+c:\users\джабашевн.corp\source\repos\EfLoadingTypes\EfLoadingTypes\obj\Debug\EfLoadingTypes.exe
+c:\users\джабашевн.corp\source\repos\EfLoadingTypes\EfLoadingTypes\obj\Debug\EfLoadingTypes.pdb
+c:\users\джабашевн.corp\source\repos\EfLoadingTypes\EfLoadingTypes\obj\Debug\EfLoadingTypes.Migrations.InitialCreate.resources
+c:\users\джабашевн.corp\source\repos\EfLoadingTypes\EfLoadingTypes\obj\Debug\EfLoadingTypes.csproj.GenerateResource.cache
